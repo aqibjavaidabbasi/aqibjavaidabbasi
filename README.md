@@ -1,8 +1,15 @@
-[![Aqib's GitHub Banner](./assets/GitHubHeader.png)](#)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqibjavaidabbasi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="aqibjavaidabbasi" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQGGDCJJ7WKvHw/profile-displaybackgroundimage-shrink_350_1400/0/1684503239828?e=1703721600&v=beta&t=kkDptOvX-LteLL-LQLvAT6DdC66ajXIXZStthyRAs6Y" alt="aqibjavaidabbasi" /> </p>
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=aqibjavaidabbasi&label=Profile%20views&color=1f8bfa&style=flat" alt="aqibjavaidabbasi" /> 
+   <img src="https://img.shields.io/badge/Rating-★★★★★-brightgreen" alt="5" /> 
+</p>
+<p align="left"></p>
 
 
 <h1 align="center">Hi 👋, I'm Aqib Javaid</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1f8bfa?style=for-the-badge" alt="5" /> 
+</p>
 <h3 align="center">Full Stack Web Developer</h3>
 
 
@@ -16,8 +23,25 @@
 
 - 📫 How to reach me **aqibjavaidabbasi@gmail.com**
 
-### Blogs posts
+### Skills
 <!-- BLOG-POST-LIST:START -->
+
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
