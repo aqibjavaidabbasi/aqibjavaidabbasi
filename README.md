@@ -25,22 +25,9 @@
 
 ### Skills
 <!-- BLOG-POST-LIST:START -->
-
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+|  PHP/Laravel 	|  Database 	|  Javascript 	|  ReactJs 	|  Vuejs 	|	Design	|  
+|---	|---	|---	|---	|---	|---	|
+|  ![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=red)<br/>![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=7377ad)<br/>  |  ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=00758f) <br/> ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=0fa54d)	|  ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=E7E407)<br/>![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=#2f74c0) 	|  ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=white&color=5ed3f3)<br/>![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=Redux&logoColor=white&color=9A0EA0) 	|  ![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67&logoColor=white&color=42B883)<br/>![](https://img.shields.io/badge/Vuex-informational?style=flat-square&logo=vuex&logoColor=white&color=33475b)<br/>![](https://img.shields.io/badge/CASL-informational?style=flat-square&logo=caslJava&logoColor=white&color=202428)<br/>![](https://img.shields.io/badge/Vuetify-informational?style=flat-square&logo=caslJava&logoColor=white&color=a9d6f7)<br/>![](https://img.shields.io/badge/PriveVue-informational?style=flat-square&logo=caslJava&logoColor=white&color=33475b)  	| ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7111f0)<br/>![](https://img.shields.io/badge/TailwindCss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=36b7f0)<br/>![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=white&color=eb4c1d)<br/>![](https://img.shields.io/badge/Photoshop-informational?style=flat-square&logo=photoshop&logoColor=white&color=001d34)<br/>	|
 
 <!-- BLOG-POST-LIST:END -->
 
