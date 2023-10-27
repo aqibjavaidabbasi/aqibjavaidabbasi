@@ -58,15 +58,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibjavaidabbasi&theme=github-compact&bg_color=243b55)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p>
-   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aqibjavaidabbasi&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff)](https://github-readme-stats.vercel.app)
-   
+
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aqibjavaidabbasi&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![Stats](https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff)](https://github-readme-stats.vercel.app)   
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" /></p>
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" /></p>
 
 
 
