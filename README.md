@@ -64,8 +64,12 @@
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" width="45%" /> 
    <br/>
    <img align="right" src="https://readme-jokes.vercel.app/api" alt="aqibjavaidabbasi" width="45%" /> 
-</p>  
+</p> 
+
 <hr width="100%"  style="display:block; height:0.01rem!important">
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Pinned Repositories-purple?style=for-the-badge&logo=github" alt="5" /> 
+</h1>
 <p width="100%" >
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aqibjavaidabbasi&repo=primevue-apollo&cache_seconds=86400&theme=material-palenight" width="49.5%"></img>
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aqibjavaidabbasi&repo=jobportal&cache_seconds=86400&theme=material-palenight" width="49.5%"></img>
@@ -84,7 +88,3 @@
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="vscode"  width="60" height="60" />	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://forge.laravel.com/social-share.png" alt="vscode"  width="60" height="60" />	|  <img src="https://ri32.files.wordpress.com/2021/03/ri32-logo-laragon.png" alt="vscode"  width="60" height="60" /> 	|  <img src="https://www.primetek.com.tr/img/primevue.jpg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://casl.js.org/v6/51b9cc103e05f66c.png" alt="vscode"  width="60" height="60" />   |
 
 <h1></h1>
-
-
-
-**
