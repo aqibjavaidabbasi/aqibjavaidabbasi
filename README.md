@@ -2,7 +2,7 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=aqibjavaidabbasi&label=Profile%20views&color=1f8bfa&style=flat" alt="aqibjavaidabbasi" /> 
    <img src="https://img.shields.io/badge/Rating-★★★★★-brightgreen" alt="5" /> 
-   <img src="https://img.shields.io/github/followers/aqibjavaidabbasi.svg?style=flat&label=Followers&maxAge=2592000" alt="5" /> 
+   <img src="https://img.shields.io/github/followers/aqibjavaidabbasi?style=flat&label=Followers&maxAge=2592000" alt="5" /> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Aqib Javaid</h1>
