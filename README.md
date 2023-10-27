@@ -39,7 +39,6 @@
 
 
 <h1></h1>
-<h1 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqibjavaidabbasi&margin-w=15" alt="aqibjavaidabbasi" /></a> </h1>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/Skills-lightgreen?style=for-the-badge&logo=Super%20User&logoColor=black" alt="5" /> 
@@ -54,6 +53,25 @@
 <h1></h1>
 
 <h1 align="center">
+  <img src="https://img.shields.io/badge/Github_Statistics-black?style=for-the-badge&logo=github" alt="5" /> 
+</h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibjavaidabbasi&theme=github-compact&bg_color=243b55)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aqibjavaidabbasi&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
+[![Stats](https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff)](https://github-readme-stats.vercel.app)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" /></p>
+
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight"></img>
+
+
+<h1 align="center">
   <img src="https://img.shields.io/badge/Language_&_Tools-orange?style=for-the-badge&logo=tmux&logoColor=white" alt="5" /> 
 </h1>
 
@@ -66,20 +84,6 @@
 
 <h1></h1>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Github_Statistics-black?style=for-the-badge&logo=github" alt="5" /> 
-</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" /></p>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibjavaidabbasi&theme=github-compact&bg_color=243b55)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight"></img>
 
 
 **
