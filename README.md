@@ -2,18 +2,32 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=aqibjavaidabbasi&label=Profile%20views&color=1f8bfa&style=flat" alt="aqibjavaidabbasi" /> 
    <img src="https://img.shields.io/badge/Rating-★★★★★-brightgreen" alt="5" /> 
+   <img src="https://img.shields.io/github/followers/aqibjavaidabbasi.svg?style=flat&label=Followers&maxAge=2592000" alt="5" /> 
 </p>
-<p align="left"></p>
-
 
 <h1 align="center">Hi 👋, I'm Aqib Javaid</h1>
-<p align="center">
+
+<h1 align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1f8bfa?style=for-the-badge" alt="5" /> 
+</h1>
+
+- 💼 Full Stack Laravel Developer
+  
+- 🌐 Web Development Enthusiast
+  
+- 🛠️ Technologies: Laravel, PHP, Vue.js, React.js
+  
+- 🤝 Team Management: Leading, coordinating, and mentoring development teams
+  
+- 📈 Continuous Learner: Always staying up-to-date with the latest industry trends and technologies
+
+<h1></h1>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Profile%20Overview-green?style=for-the-badge" alt="5" /> 
+</h1>
+
+<p align="center">
 </p>
-<h3 align="center">Full Stack Web Developer</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqibjavaidabbasi&theme=dark_lover&margin-w=15" alt="aqibjavaidabbasi" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel, Vuejs and Reactjs**
 
@@ -23,11 +37,21 @@
 
 - 📫 How to reach me **aqibjavaidabbasi@gmail.com**
 
-### Skills
+
+<h1></h1>
+<h1 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqibjavaidabbasi&margin-w=15" alt="aqibjavaidabbasi" /></a> </h1>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Skills-lightgreen?style=for-the-badge" alt="5" /> 
+</h1>
+
 <!-- BLOG-POST-LIST:START -->
-|  PHP/Laravel 	|  Database 	|  Javascript 	|  ReactJs 	|  Vuejs 	|	Design	|  
-|---	|---	|---	|---	|---	|---	|
-|  ![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=FF2D20)<br/>![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=777BB4)<br/>![](https://img.shields.io/badge/Livewire-informational?style=flat-square&logo=livewire&logoColor=white&color=f36ca4)<br/>  |  ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=005C84) <br/> ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=4EA94B)<br/> ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=316192)	|  ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)<br/>![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=007ACC) <br/>![](https://img.shields.io/badge/AlphineJs-informational?style=flat-square&logo=alpine-linux&logoColor=white&color=73bbcb) 	|  ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=61DAFB&color=20232A)<br/>![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=Redux&logoColor=white&color=593D88) 	|  ![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vue.js&logoColor=4FC08D&color=35495E)<br/>![](https://img.shields.io/badge/Vuex-informational?style=flat-square&logo=vue.js&logoColor=white&color=33475b)<br/>![](https://img.shields.io/badge/CASL-informational?style=flat-square&logo=vue.js&logoColor=white&color=202428)<br/>![](https://img.shields.io/badge/Vuetify-informational?style=flat-square&logo=vue.js&logoColor=white&color=a9d6f7)<br/>![](https://img.shields.io/badge/PrimeVue-informational?style=flat-square&logo=vue.js&logoColor=white&color=33475b)  	| ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=563D7C)<br/> ![](https://img.shields.io/badge/TailwindCss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=38B2AC)	|
+|  PHP/Laravel 	|  Database 	|  Javascript 	|  ReactJs 	|  Vuejs 	|	Design	|  DevOps  |
+|---	|---	|---	|---	|---	|---	|--- |
+|  ![](https://img.shields.io/badge/Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=FF2D20)<br/>![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=777BB4)<br/>![](https://img.shields.io/badge/Livewire-informational?style=flat-square&logo=livewire&logoColor=white&color=f36ca4)<br/> ![](https://img.shields.io/badge/PHPUnit_Testing-323330?style=flat-square&logo=php&logoColor=white) <br/> ![](https://img.shields.io/badge/Laravel_Dusk-informational?style=flat-square&logo=laravel&logoColor=white&color=FF2D20)  |  ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=005C84) <br/> ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=4EA94B)<br/> ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=316192)<br/> ![](https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite&logoColor=white&color=07405E)<br/> ![](https://img.shields.io/badge/Redis-informational?style=flat-square&logo=redis&logoColor=white&color=DD0031)	|  ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)<br/>![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=007ACC) <br/>![](https://img.shields.io/badge/AlphineJs-informational?style=flat-square&logo=alpine-linux&logoColor=white&color=73bbcb) <br/> ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)	|  ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=61DAFB&color=20232A)<br/>![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=Redux&logoColor=white&color=593D88) 	|  ![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vue.js&logoColor=4FC08D&color=35495E)<br/>![](https://img.shields.io/badge/Vuex-informational?style=flat-square&logo=vue.js&logoColor=white&color=33475b)<br/>![](https://img.shields.io/badge/CASL-informational?style=flat-square&logo=vue.js&logoColor=white&color=202428)<br/>![](https://img.shields.io/badge/Vuetify-informational?style=flat-square&logo=vue.js&logoColor=white&color=a9d6f7)<br/>![](https://img.shields.io/badge/PrimeVue-informational?style=flat-square&logo=vue.js&logoColor=white&color=33475b)  	| ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=563D7C)<br/> ![](https://img.shields.io/badge/TailwindCss-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=38B2AC) <br/> ![](https://img.shields.io/badge/Material--UI-0081CB?style=fla-square&logo=material-ui&logoColor=white)	| ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=563D7C)<br/> ![](https://img.shields.io/badge/CI/CD_Actions-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=38B2AC) <br/> ![](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) <br/> ![](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)	 |
+
+
+<h1></h1>
 
 <!-- BLOG-POST-LIST:END -->
 <br/>![](https://img.shields.io/badge/Photoshop-informational?style=flat-square&logo=Adobe%20Photoshop&logoColor=white&color=001d34)<br/>
@@ -47,4 +71,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=compact" alt="aqibjavaidabbasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&show_icons=true&locale=en" alt="aqibjavaidabbasi" /></p>
+
+https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 **
