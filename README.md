@@ -79,7 +79,7 @@
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
-<img src="https://camo.githubusercontent.com/2d37e2e7e1949b186fd15f97f562142b340b19ac5543f9d6c7e81d83b2c88a2d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f676973743f69643d6262666365333165303231376133363839633864393631613335366362313064267468656d653d63616c6d" alt="Gist Card" data-canonical-src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&amp;theme=calm" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight"></img>
 
 
 **
