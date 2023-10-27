@@ -56,21 +56,21 @@
   <img src="https://img.shields.io/badge/Github_Statistics-black?style=for-the-badge&logo=github" alt="5" /> 
 </h1>
 
+<p>
+   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibjavaidabbasi&theme=github-compact&bg_color=243b55)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aqibjavaidabbasi&theme=dark&background=000000)](https://git.io/streak-stats)
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" />
-   [![Stats](https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff)](https://github-readme-stats.vercel.app)   
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight"></img>
-
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibjavaidabbasi&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" width="49%"/>
+   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=aqibjavaidabbasi&theme=dark&background=000000" alt="aqibjavaidabbasi" width="45%"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=aqibjavaidabbasi&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="aqibjavaidabbasi" width="45%" /> 
+   <br/>
+   <img align="right" src="https://readme-jokes.vercel.app/api" alt="aqibjavaidabbasi" width="45%" /> 
+</p>  
+<hr width="100%"  style="display:block; height:0.01rem!important">
+<p width="100%" >
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aqibjavaidabbasi&repo=primevue-apollo&cache_seconds=86400&theme=material-palenight" width="49.5%"></img>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aqibjavaidabbasi&repo=jobportal&cache_seconds=86400&theme=material-palenight" width="49.5%"></img>
+</p>
+<hr width="100%"  style="display:block; height:0.01rem!important">
 <br/>
 <h1 align="center">
   <img src="https://img.shields.io/badge/Language_&_Tools-orange?style=for-the-badge&logo=tmux&logoColor=white" alt="5" /> 
