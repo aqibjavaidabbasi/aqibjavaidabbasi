@@ -7,12 +7,6 @@
    <img src="https://img.shields.io/youtube/channel/subscribers/UCeJClacGgIDMgn46W7fbLpA?style=flat&label=Youtube%20Subscribers&maxAge=2592000" alt="5" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aqib Javaid</h1>
-
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1f8bfa?style=for-the-badge&logo=xda-developers&logoColor=white" alt="5" /> 
-</h1>
-
 - 💼 Full Stack Laravel Developer
   
 - 🌐 Web Development Enthusiast
