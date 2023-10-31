@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQGGDCJJ7WKvHw/profile-displaybackgroundimage-shrink_350_1400/0/1684503239828?e=1703721600&v=beta&t=kkDptOvX-LteLL-LQLvAT6DdC66ajXIXZStthyRAs6Y" alt="aqibjavaidabbasi" /> </p>
+<p align="left"> <img src="https://github.com/aqibjavaidabbasi/aqibjavaidabbasi/blob/main/GitHubHeader.png?raw=true" alt="aqibjavaidabbasi" /> </p>
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=aqibjavaidabbasi&label=Profile%20views&color=1f8bfa&style=flat" alt="aqibjavaidabbasi" /> 
    <img src="https://img.shields.io/badge/Rating-★★★★★-brightgreen" alt="5" /> 
